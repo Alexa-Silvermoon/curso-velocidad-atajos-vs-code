@@ -1,0 +1,22 @@
+
+- monokai vibrant theme
+
+- vs studio icons
+
+- Bookmarks
+
+- Bracket Pair Colorizer 2
+
+- Color Highlight
+
+- Liveserver
+
+- Material Icon Theme    https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+- Material Theme
+
+- Paste JSON as Code
+
+- TODO Highlight
+
+- TODO Tree

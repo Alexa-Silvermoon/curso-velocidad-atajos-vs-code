@@ -1,0 +1,85 @@
+Alt + ↑ / ↓            para mover una linea entera arriba o abajo
+
+
+Ctrl + /
+Ctrl + }               para comentar una linea entera
+
+
+Shift + Alt + A        para comentar la seccion de texto que hayamos seleccionado
+
+
+F12                    para ir a la definicion
+Ctrl + click derecho   para ir a una ubicacion de una ruta, funciona similar a F12
+
+
+Ctrl + Shift + K       para borrar una linea entera
+
+
+Ctrl + L                para seleccionar una linea
+
+
+Ctrl + Shift + L        crear multiples cursores para asi 
+                        modificar todas las palabras que coincidan con exactitud
+
+
+
+NOTA: podemos usar    Ctrl + Shift + L     y luego    Ctrl + Shift + K
+para que todas las coincidencias se seleccionen, eliminen corrijan el esácio
+
+
+
+Ctrl +Z                 para deshacer algo que no 
+Ctrl + Shift + Z        para rehacer algo
+
+
+Ctrl + B                para ocultar o mostrar el arbol
+
+
+Ctrl + TAB              para desplazarse entre pestañas
+
+
+TAB                     para tabular a la derecha
+Shift + TAB             para tabular a la izquerda
+
+
+Shift + Alt + ↑ / ↓     para clonar una linea hacia arriba o hacia abajo
+
+
+Ctrl + Alt+ ↑ / ↓       MULTIPLES CURSORES
+
+
+Ctrl + → / ←            para mover cursor de izquierda a derecha rapidamente
+
+
+Ctrl + Alt+ ↑ / ↓       Para crear multiples cursores
+Shift + Alt + →         para seleccionar palabras diferentes "multi cursos copy"
+
+
+Alt + doble click      para seleccionar varias palabras que estan desordenadas
+
+
+Alt + Shift + →         se desplaza hacia el final de la palabra seleccionada
+Shift + →               selecciona letra por letra, ideal para poner solo la primera en mayuscula
+
+
+Ctrl + Shift + U        convertir letras en mayuscula UpperCase
+Ctrl + Shift + L        convertir letras en minuscula LowerCase
+
+
+Ctrl + D               selecionar palabras iguales, oprimir esa conbinacion segun sea necesario
+
+
+Ctrl + Shift = O       para ver las definiciones de un archivo, se le puede dar mas orden
+                       agregando : para que agrupe las definiciones de el aechivo
+
+
+Ctrl + G              y escribir el numero de la linea a la cual quiero ir
+
+
+F2                    renombrar simbolo ( palabra o variable )
+
+
+crear snippets: https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13958232#notes
+const diasSemana = ['lunes', 'martes', 'miercoles', 'jueves', 'viernes', 'sabado', 'domingo'];
+const abecedario = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'ñ', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+

@@ -1,0 +1,51 @@
+
+paste JSON as Code:
+practicar copiando al pokemon en https://pokeapi.co/
+https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13968338#notes
+
+1 - copiar la informacion json en la pagina api
+
+2 - ir a vs code y escribir el comando Ctrl + Shift + P y seleccionar la opcion
+    paste JSON as Code
+
+3- en el cuadrito que aparece escribir el nombre que queremos darle a lo que habiamos copiado y
+   luego dar enter, si todo sale bien se habra pegado de forma bonita lo que
+   habiamos copiado en el paso 1
+
+-----------------------------------------------------------------------------------------------------
+
+TODO Tree:
+sirve para resaltar una tarea que tengo que hacer o resaltar un error a corregir
+https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13968788?start=15#notes
+
+la sintaxis es la siguiente:
+
+// TODO: nombre de la tarea aqui
+
+// FIXME: arreglar error aqui
+
+-------------------------------------------------------------------------------------------------------
+
+Bookmarks:
+es como cuando uno pone un lazo en un libro para saber donde quedo la lectura, los bookmarks funcionan
+igual, para poner un bookmarks se escribe el comando Ctrl + Alt + K y se activa una marca azul
+
+-----------------------------------------------------------------------------------------------------
+
+Live Server:
+sirve para ejecutar rapidamente un archivo html y correrlo como si estuviera ya en internet
+
+para ello solamente oprimir el botn que dice Go Live y ya veremos nuestro archivo html corriendo
+en chrome, para detener el servidor dar click en el mismo boton que ahora dira Port: 5500
+
+-----------------------------------------------------------------------------------------------------
+
+Color Highlight:
+muestra el codigo hexadecimal en typescript o en html o en css
+https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/learn/lecture/13969182#notes
+
+----------------------------------------------------------------------------------------------------
+
+Bracket Pair Colorizer 2:
+da colores a las llaves, corchetes, parentesis para identificar rapidamente el codigo por bloques
+gracias a los colores, tambien se colorea las lineas con colores
